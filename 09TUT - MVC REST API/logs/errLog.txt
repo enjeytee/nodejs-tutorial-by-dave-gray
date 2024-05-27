@@ -1,0 +1,6 @@
+20240527	22:37:30	a4f8b0f1-432d-4110-9417-120733e18e71	Error: Not allowed by CORS
+20240527	22:38:03	d5f1d057-324c-4a7a-b56f-a06795558818	Error: Not allowed by CORS
+20240527	22:38:03	481504c4-f067-42f8-a141-76e77eb19797	Error: Not allowed by CORS
+20240527	23:45:57	ebda3bb2-5821-43af-8854-afd2654a09bc	Error: ENOENT: no such file or directory, stat '/Users/neiljohntrajano/Desktop/nodejs-tutorial-by-dave-gray/views/subdir/test.html'
+20240527	23:46:07	0bea5778-4f61-4e15-8c69-539c74ed9de2	Error: ENOENT: no such file or directory, stat '/Users/neiljohntrajano/Desktop/nodejs-tutorial-by-dave-gray/views/subdir/test.html'
+20240527	23:56:02	fd9cce6c-8a72-4da7-a0eb-bf597cba1762	Error: ENOENT: no such file or directory, stat '/Users/neiljohntrajano/Desktop/nodejs-tutorial-by-dave-gray/routes/views/index.html'
