@@ -1,0 +1,12 @@
+20240527	22:37:30	a4f8b0f1-432d-4110-9417-120733e18e71	Error: Not allowed by CORS
+20240527	22:38:03	d5f1d057-324c-4a7a-b56f-a06795558818	Error: Not allowed by CORS
+20240527	22:38:03	481504c4-f067-42f8-a141-76e77eb19797	Error: Not allowed by CORS
+20240527	23:45:57	ebda3bb2-5821-43af-8854-afd2654a09bc	Error: ENOENT: no such file or directory, stat '/Users/neiljohntrajano/Desktop/nodejs-tutorial-by-dave-gray/views/subdir/test.html'
+20240527	23:46:07	0bea5778-4f61-4e15-8c69-539c74ed9de2	Error: ENOENT: no such file or directory, stat '/Users/neiljohntrajano/Desktop/nodejs-tutorial-by-dave-gray/views/subdir/test.html'
+20240527	23:56:02	fd9cce6c-8a72-4da7-a0eb-bf597cba1762	Error: ENOENT: no such file or directory, stat '/Users/neiljohntrajano/Desktop/nodejs-tutorial-by-dave-gray/routes/views/index.html'
+20240528	22:20:51	b05548ac-609a-44b5-9a1f-634760dc2e2e	ReferenceError: user is not defined
+20240528	22:21:10	21dd3a6f-a611-4b14-8f28-a465f9727706	ReferenceError: user is not defined
+20240528	22:23:08	86bd25d2-05d7-4297-accc-5fdd42e5fe57	ReferenceError: user is not defined
+20240528	22:24:29	f3333a85-9a76-4d0c-b1d0-44efa51b09d6	ReferenceError: user is not defined
+20240528	22:25:42	3cb9932b-2c60-407b-9f93-f13def91a919	ReferenceError: user is not defined
+20240528	22:29:55	69a1d3a7-4295-48fd-a9d3-0b16140dd7dc	ReferenceError: refreshtoken is not defined
